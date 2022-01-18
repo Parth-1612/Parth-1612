@@ -1,6 +1,7 @@
 # Hi 👋, I'm Parth Patel
 
--   Passionate web developer from Canada 🇨🇦
+-   Passionate web developer🇨
+-   WEB3 and MetaVerse Enthusiast🇦
 -   Working with HTML, CSS and JavaScript
 
 ![](https://komarev.com/ghpvc/?username=Parth-1612&color=yellow&style=flat-square)
