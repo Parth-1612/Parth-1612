@@ -1,2 +1,3 @@
-# Hi 👋, I'm Parth Patel
+# Hi 👋, I'm Parth
+
 
